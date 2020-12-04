@@ -54,7 +54,7 @@ _Please follow the setup instructions closely so that you can get everything up 
 
 **Basic set up**
 
-- [ ] Create a forked copy of this project
+- [x] Create a forked copy of this project
 - [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
 - [ ] [OPTIONAL] Create a new branch: git checkout -b `<firstName-lastName>`. If you choose to do this, you will need to merge your working branch into the master branch and push your final code to master in order for the submission to work with CodeGrade.
 
